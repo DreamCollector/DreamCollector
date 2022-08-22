@@ -1,0 +1,6 @@
+git add test.txt  添加文件
+git commit -m ‘自定义备注’
+git push 
+git config --golbal user.name ‘xxx’
+git config --golbal user.email ‘xxx’
+git config --list
